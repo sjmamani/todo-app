@@ -15,7 +15,7 @@ El proyecto utiliza las siguientes librerías:
 
 ## Screenshots
 
-![Image-photo Demo GIF](demo/screenshot_todos.png)
+![Image-photo Demo GIF](demo/Screenshot_todos.png)
 
 ## Installation
 To run this project, install it locally using npm:
